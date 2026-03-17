@@ -1,1 +1,2 @@
+#mimuw-evaluator
 Concurrent evaluator for interactive ML-style environments in C. Spawns and coordinates policy/environment subprocesses via pipes, enforces resource limits, handles SIGINT cleanup, and preserves ordered output with greedy scheduling.
