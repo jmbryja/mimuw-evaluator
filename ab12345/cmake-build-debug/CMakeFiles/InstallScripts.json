@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/cmake_install.cmake",
+		"/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/common/cmake_install.cmake",
+		"/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/demo/cmake_install.cmake",
+		"/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/solution/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

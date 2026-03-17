@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug",
+  "command": "/usr/bin/cc -DACTION_SIZE=4 -DNAME_SIZE=4 -DSTATE_SIZE=4 -I/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345 -g -std=gnu17 -fdiagnostics-color=always -Werror -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-uninitialized -Wno-unused-function -o common/CMakeFiles/err.dir/err.c.o -c /home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/common/err.c",
+  "file": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/common/err.c",
+  "output": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/common/CMakeFiles/err.dir/err.c.o"
+},
+{
+  "directory": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug",
+  "command": "/usr/bin/cc -DACTION_SIZE=4 -DNAME_SIZE=4 -DSTATE_SIZE=4 -I/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345 -g -std=gnu17 -fdiagnostics-color=always -Werror -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-uninitialized -Wno-unused-function -o demo/CMakeFiles/demo_policy.dir/policy.c.o -c /home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/demo/policy.c",
+  "file": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/demo/policy.c",
+  "output": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/demo/CMakeFiles/demo_policy.dir/policy.c.o"
+},
+{
+  "directory": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug",
+  "command": "/usr/bin/cc -DACTION_SIZE=4 -DNAME_SIZE=4 -DSTATE_SIZE=4 -I/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345 -g -std=gnu17 -fdiagnostics-color=always -Werror -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-uninitialized -Wno-unused-function -o demo/CMakeFiles/demo_env.dir/env.c.o -c /home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/demo/env.c",
+  "file": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/demo/env.c",
+  "output": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/demo/CMakeFiles/demo_env.dir/env.c.o"
+},
+{
+  "directory": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug",
+  "command": "/usr/bin/c++ -DACTION_SIZE=4 -DNAME_SIZE=4 -DORDERED_OUTPUT=1 -DSTATE_SIZE=4 -I/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345 -g -std=gnu++20 -fdiagnostics-color=always -Werror -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-uninitialized -Wno-unused-function -o solution/CMakeFiles/evaluator.dir/evaluator.cpp.o -c /home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/solution/evaluator.cpp",
+  "file": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/solution/evaluator.cpp",
+  "output": "/home/jakubb/Desktop/MIMUW/PW/Lab/duze_zadania/Ewaluator/ab12345/cmake-build-debug/solution/CMakeFiles/evaluator.dir/evaluator.cpp.o"
+}
+]
